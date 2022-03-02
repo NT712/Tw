@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "beach",
+		"player1": "bf",
+		"player2": "Nogla",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 124,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Ceartas"
+	}
+}
